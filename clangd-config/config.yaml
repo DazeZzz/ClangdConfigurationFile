@@ -1,0 +1,32 @@
+Diagnostics:
+  ClangTidy:
+    Add: 
+      - bugprone-*
+      - clang-analyzer-*
+      - google-*
+      - modernize-*
+      - performance-*
+      - portability-*
+      - readability-*
+      - cppcoreguidelines-*
+      - hicpp-*
+      - misc-*
+    
+    Remove:
+      - modernize-use-trailing-return-type
+      - readability-magic-numbers
+      - cppcoreguidelines-avoid-magic-numbers
+    
+    CheckOptions:
+      readability-identifier-naming.ClassCase: CamelCase
+      readability-identifier-naming.EnumCase: CamelCase
+      readability-identifier-naming.FunctionCase: CamelCase
+      readability-identifier-naming.GlobalConstantCase: UPPER_CASE
+      readability-identifier-naming.MemberCase: lower_case
+      readability-identifier-naming.MemberSuffix: _
+      readability-identifier-naming.NamespaceCase: lower_case
+      readability-identifier-naming.StructCase: CamelCase
+      readability-identifier-naming.UnionCase: CamelCase
+      readability-identifier-naming.VariableCase: lower_case
+  
+  UnusedIncludes: Strict
