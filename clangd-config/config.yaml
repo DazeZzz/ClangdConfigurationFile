@@ -1,6 +1,11 @@
+# specify which files this config can be used for
+If:
+  PathExclude: /root/CMU-15445/.*
+
 Diagnostics:
+  # cofig for clang-tidy
   ClangTidy:
-    Add: 
+    Add:
       - bugprone-*
       - clang-analyzer-*
       - google-*
@@ -11,12 +16,12 @@ Diagnostics:
       - cppcoreguidelines-*
       - hicpp-*
       - misc-*
-    
+
     Remove:
       - modernize-use-trailing-return-type
       - readability-magic-numbers
       - cppcoreguidelines-avoid-magic-numbers
-    
+
     CheckOptions:
       readability-identifier-naming.ClassCase: CamelCase
       readability-identifier-naming.EnumCase: CamelCase
@@ -28,5 +33,6 @@ Diagnostics:
       readability-identifier-naming.StructCase: CamelCase
       readability-identifier-naming.UnionCase: CamelCase
       readability-identifier-naming.VariableCase: lower_case
-  
+
+  # strictly check for useless header files
   UnusedIncludes: Strict
