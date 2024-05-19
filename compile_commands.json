@@ -1,0 +1,1407 @@
+[
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/data_sink.cpp.o -c /root/starrocks/be/src/exec/data_sink.cpp",
+  "file": "/root/starrocks/be/src/exec/data_sink.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/empty_set_node.cpp.o -c /root/starrocks/be/src/exec/empty_set_node.cpp",
+  "file": "/root/starrocks/be/src/exec/empty_set_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/exec_node.cpp.o -c /root/starrocks/be/src/exec/exec_node.cpp",
+  "file": "/root/starrocks/be/src/exec/exec_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/exchange_node.cpp.o -c /root/starrocks/be/src/exec/exchange_node.cpp",
+  "file": "/root/starrocks/be/src/exec/exchange_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/scan_node.cpp.o -c /root/starrocks/be/src/exec/scan_node.cpp",
+  "file": "/root/starrocks/be/src/exec/scan_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/select_node.cpp.o -c /root/starrocks/be/src/exec/select_node.cpp",
+  "file": "/root/starrocks/be/src/exec/select_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/sort_exec_exprs.cpp.o -c /root/starrocks/be/src/exec/sort_exec_exprs.cpp",
+  "file": "/root/starrocks/be/src/exec/sort_exec_exprs.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/short_circuit.cpp.o -c /root/starrocks/be/src/exec/short_circuit.cpp",
+  "file": "/root/starrocks/be/src/exec/short_circuit.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/short_circuit_hybrid.cpp.o -c /root/starrocks/be/src/exec/short_circuit_hybrid.cpp",
+  "file": "/root/starrocks/be/src/exec/short_circuit_hybrid.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/olap_common.cpp.o -c /root/starrocks/be/src/exec/olap_common.cpp",
+  "file": "/root/starrocks/be/src/exec/olap_common.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/tablet_info.cpp.o -c /root/starrocks/be/src/exec/tablet_info.cpp",
+  "file": "/root/starrocks/be/src/exec/tablet_info.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/tablet_sink.cpp.o -c /root/starrocks/be/src/exec/tablet_sink.cpp",
+  "file": "/root/starrocks/be/src/exec/tablet_sink.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/tablet_sink_colocate_sender.cpp.o -c /root/starrocks/be/src/exec/tablet_sink_colocate_sender.cpp",
+  "file": "/root/starrocks/be/src/exec/tablet_sink_colocate_sender.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/tablet_sink_index_channel.cpp.o -c /root/starrocks/be/src/exec/tablet_sink_index_channel.cpp",
+  "file": "/root/starrocks/be/src/exec/tablet_sink_index_channel.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/tablet_sink_sender.cpp.o -c /root/starrocks/be/src/exec/tablet_sink_sender.cpp",
+  "file": "/root/starrocks/be/src/exec/tablet_sink_sender.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/write_combined_txn_log.cpp.o -c /root/starrocks/be/src/exec/write_combined_txn_log.cpp",
+  "file": "/root/starrocks/be/src/exec/write_combined_txn_log.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/mysql_scanner.cpp.o -c /root/starrocks/be/src/exec/mysql_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/mysql_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/es/es_predicate.cpp.o -c /root/starrocks/be/src/exec/es/es_predicate.cpp",
+  "file": "/root/starrocks/be/src/exec/es/es_predicate.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/es/es_scan_reader.cpp.o -c /root/starrocks/be/src/exec/es/es_scan_reader.cpp",
+  "file": "/root/starrocks/be/src/exec/es/es_scan_reader.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/es/es_scroll_query.cpp.o -c /root/starrocks/be/src/exec/es/es_scroll_query.cpp",
+  "file": "/root/starrocks/be/src/exec/es/es_scroll_query.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/es/es_query_builder.cpp.o -c /root/starrocks/be/src/exec/es/es_query_builder.cpp",
+  "file": "/root/starrocks/be/src/exec/es/es_query_builder.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/es/es_scroll_parser.cpp.o -c /root/starrocks/be/src/exec/es/es_scroll_parser.cpp",
+  "file": "/root/starrocks/be/src/exec/es/es_scroll_parser.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/local_file_writer.cpp.o -c /root/starrocks/be/src/exec/local_file_writer.cpp",
+  "file": "/root/starrocks/be/src/exec/local_file_writer.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/plain_text_builder.cpp.o -c /root/starrocks/be/src/exec/plain_text_builder.cpp",
+  "file": "/root/starrocks/be/src/exec/plain_text_builder.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/aggregator.cpp.o -c /root/starrocks/be/src/exec/aggregator.cpp",
+  "file": "/root/starrocks/be/src/exec/aggregator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/sorted_streaming_aggregator.cpp.o -c /root/starrocks/be/src/exec/sorted_streaming_aggregator.cpp",
+  "file": "/root/starrocks/be/src/exec/sorted_streaming_aggregator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/aggregate/agg_hash_variant.cpp.o -c /root/starrocks/be/src/exec/aggregate/agg_hash_variant.cpp",
+  "file": "/root/starrocks/be/src/exec/aggregate/agg_hash_variant.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/aggregate/aggregate_base_node.cpp.o -c /root/starrocks/be/src/exec/aggregate/aggregate_base_node.cpp",
+  "file": "/root/starrocks/be/src/exec/aggregate/aggregate_base_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/aggregate/aggregate_blocking_node.cpp.o -c /root/starrocks/be/src/exec/aggregate/aggregate_blocking_node.cpp",
+  "file": "/root/starrocks/be/src/exec/aggregate/aggregate_blocking_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/aggregate/distinct_blocking_node.cpp.o -c /root/starrocks/be/src/exec/aggregate/distinct_blocking_node.cpp",
+  "file": "/root/starrocks/be/src/exec/aggregate/distinct_blocking_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/aggregate/aggregate_streaming_node.cpp.o -c /root/starrocks/be/src/exec/aggregate/aggregate_streaming_node.cpp",
+  "file": "/root/starrocks/be/src/exec/aggregate/aggregate_streaming_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/aggregate/distinct_streaming_node.cpp.o -c /root/starrocks/be/src/exec/aggregate/distinct_streaming_node.cpp",
+  "file": "/root/starrocks/be/src/exec/aggregate/distinct_streaming_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/partition/chunks_partitioner.cpp.o -c /root/starrocks/be/src/exec/partition/chunks_partitioner.cpp",
+  "file": "/root/starrocks/be/src/exec/partition/chunks_partitioner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/partition/partition_hash_variant.cpp.o -c /root/starrocks/be/src/exec/partition/partition_hash_variant.cpp",
+  "file": "/root/starrocks/be/src/exec/partition/partition_hash_variant.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/analytic_node.cpp.o -c /root/starrocks/be/src/exec/analytic_node.cpp",
+  "file": "/root/starrocks/be/src/exec/analytic_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/analytor.cpp.o -c /root/starrocks/be/src/exec/analytor.cpp",
+  "file": "/root/starrocks/be/src/exec/analytor.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/csv_scanner.cpp.o -c /root/starrocks/be/src/exec/csv_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/csv_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/tablet_scanner.cpp.o -c /root/starrocks/be/src/exec/tablet_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/tablet_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/olap_scan_node.cpp.o -c /root/starrocks/be/src/exec/olap_scan_node.cpp",
+  "file": "/root/starrocks/be/src/exec/olap_scan_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/olap_scan_prepare.cpp.o -c /root/starrocks/be/src/exec/olap_scan_prepare.cpp",
+  "file": "/root/starrocks/be/src/exec/olap_scan_prepare.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/meta_scan_node.cpp.o -c /root/starrocks/be/src/exec/meta_scan_node.cpp",
+  "file": "/root/starrocks/be/src/exec/meta_scan_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/olap_meta_scanner.cpp.o -c /root/starrocks/be/src/exec/olap_meta_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/olap_meta_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/olap_meta_scan_node.cpp.o -c /root/starrocks/be/src/exec/olap_meta_scan_node.cpp",
+  "file": "/root/starrocks/be/src/exec/olap_meta_scan_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/lake_meta_scanner.cpp.o -c /root/starrocks/be/src/exec/lake_meta_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/lake_meta_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/lake_meta_scan_node.cpp.o -c /root/starrocks/be/src/exec/lake_meta_scan_node.cpp",
+  "file": "/root/starrocks/be/src/exec/lake_meta_scan_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/hash_joiner.cpp.o -c /root/starrocks/be/src/exec/hash_joiner.cpp",
+  "file": "/root/starrocks/be/src/exec/hash_joiner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/hash_join_node.cpp.o -c /root/starrocks/be/src/exec/hash_join_node.cpp",
+  "file": "/root/starrocks/be/src/exec/hash_join_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/hash_join_components.cpp.o -c /root/starrocks/be/src/exec/hash_join_components.cpp",
+  "file": "/root/starrocks/be/src/exec/hash_join_components.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/join_hash_map.cpp.o -c /root/starrocks/be/src/exec/join_hash_map.cpp",
+  "file": "/root/starrocks/be/src/exec/join_hash_map.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/topn_node.cpp.o -c /root/starrocks/be/src/exec/topn_node.cpp",
+  "file": "/root/starrocks/be/src/exec/topn_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/chunks_sorter.cpp.o -c /root/starrocks/be/src/exec/chunks_sorter.cpp",
+  "file": "/root/starrocks/be/src/exec/chunks_sorter.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/chunks_sorter_heap_sort.cpp.o -c /root/starrocks/be/src/exec/chunks_sorter_heap_sort.cpp",
+  "file": "/root/starrocks/be/src/exec/chunks_sorter_heap_sort.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/chunks_sorter_topn.cpp.o -c /root/starrocks/be/src/exec/chunks_sorter_topn.cpp",
+  "file": "/root/starrocks/be/src/exec/chunks_sorter_topn.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/chunks_sorter_full_sort.cpp.o -c /root/starrocks/be/src/exec/chunks_sorter_full_sort.cpp",
+  "file": "/root/starrocks/be/src/exec/chunks_sorter_full_sort.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spillable_chunks_sorter_full_sort.cpp.o -c /root/starrocks/be/src/exec/spillable_chunks_sorter_full_sort.cpp",
+  "file": "/root/starrocks/be/src/exec/spillable_chunks_sorter_full_sort.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/cross_join_node.cpp.o -c /root/starrocks/be/src/exec/cross_join_node.cpp",
+  "file": "/root/starrocks/be/src/exec/cross_join_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/union_node.cpp.o -c /root/starrocks/be/src/exec/union_node.cpp",
+  "file": "/root/starrocks/be/src/exec/union_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/except_hash_set.cpp.o -c /root/starrocks/be/src/exec/except_hash_set.cpp",
+  "file": "/root/starrocks/be/src/exec/except_hash_set.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/except_node.cpp.o -c /root/starrocks/be/src/exec/except_node.cpp",
+  "file": "/root/starrocks/be/src/exec/except_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/file_scanner.cpp.o -c /root/starrocks/be/src/exec/file_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/file_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/orc_scanner.cpp.o -c /root/starrocks/be/src/exec/orc_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/orc_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/jni_scanner.cpp.o -c /root/starrocks/be/src/exec/jni_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/jni_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/arrow_to_starrocks_converter.cpp.o -c /root/starrocks/be/src/exec/arrow_to_starrocks_converter.cpp",
+  "file": "/root/starrocks/be/src/exec/arrow_to_starrocks_converter.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/arrow_to_json_converter.cpp.o -c /root/starrocks/be/src/exec/arrow_to_json_converter.cpp",
+  "file": "/root/starrocks/be/src/exec/arrow_to_json_converter.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/parquet_scanner.cpp.o -c /root/starrocks/be/src/exec/parquet_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/parquet_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/parquet_schema_builder.cpp.o -c /root/starrocks/be/src/exec/parquet_schema_builder.cpp",
+  "file": "/root/starrocks/be/src/exec/parquet_schema_builder.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/parquet_reader.cpp.o -c /root/starrocks/be/src/exec/parquet_reader.cpp",
+  "file": "/root/starrocks/be/src/exec/parquet_reader.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/parquet_writer.cpp.o -c /root/starrocks/be/src/exec/parquet_writer.cpp",
+  "file": "/root/starrocks/be/src/exec/parquet_writer.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/parquet_builder.cpp.o -c /root/starrocks/be/src/exec/parquet_builder.cpp",
+  "file": "/root/starrocks/be/src/exec/parquet_builder.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/file_scan_node.cpp.o -c /root/starrocks/be/src/exec/file_scan_node.cpp",
+  "file": "/root/starrocks/be/src/exec/file_scan_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/assert_num_rows_node.cpp.o -c /root/starrocks/be/src/exec/assert_num_rows_node.cpp",
+  "file": "/root/starrocks/be/src/exec/assert_num_rows_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/intersect_hash_set.cpp.o -c /root/starrocks/be/src/exec/intersect_hash_set.cpp",
+  "file": "/root/starrocks/be/src/exec/intersect_hash_set.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/intersect_node.cpp.o -c /root/starrocks/be/src/exec/intersect_node.cpp",
+  "file": "/root/starrocks/be/src/exec/intersect_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/hdfs_scanner.cpp.o -c /root/starrocks/be/src/exec/hdfs_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/hdfs_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/hdfs_scanner_orc.cpp.o -c /root/starrocks/be/src/exec/hdfs_scanner_orc.cpp",
+  "file": "/root/starrocks/be/src/exec/hdfs_scanner_orc.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/hdfs_scanner_parquet.cpp.o -c /root/starrocks/be/src/exec/hdfs_scanner_parquet.cpp",
+  "file": "/root/starrocks/be/src/exec/hdfs_scanner_parquet.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/hdfs_scanner_text.cpp.o -c /root/starrocks/be/src/exec/hdfs_scanner_text.cpp",
+  "file": "/root/starrocks/be/src/exec/hdfs_scanner_text.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/hdfs_scanner_partition.cpp.o -c /root/starrocks/be/src/exec/hdfs_scanner_partition.cpp",
+  "file": "/root/starrocks/be/src/exec/hdfs_scanner_partition.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/mor_processor.cpp.o -c /root/starrocks/be/src/exec/mor_processor.cpp",
+  "file": "/root/starrocks/be/src/exec/mor_processor.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/json_scanner.cpp.o -c /root/starrocks/be/src/exec/json_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/json_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/json_parser.cpp.o -c /root/starrocks/be/src/exec/json_parser.cpp",
+  "file": "/root/starrocks/be/src/exec/json_parser.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/avro_scanner.cpp.o -c /root/starrocks/be/src/exec/avro_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/avro_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/project_node.cpp.o -c /root/starrocks/be/src/exec/project_node.cpp",
+  "file": "/root/starrocks/be/src/exec/project_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/dict_decode_node.cpp.o -c /root/starrocks/be/src/exec/dict_decode_node.cpp",
+  "file": "/root/starrocks/be/src/exec/dict_decode_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/repeat_node.cpp.o -c /root/starrocks/be/src/exec/repeat_node.cpp",
+  "file": "/root/starrocks/be/src/exec/repeat_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/table_function_node.cpp.o -c /root/starrocks/be/src/exec/table_function_node.cpp",
+  "file": "/root/starrocks/be/src/exec/table_function_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scan_node.cpp.o -c /root/starrocks/be/src/exec/schema_scan_node.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scan_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/dictionary_cache_writer.cpp.o -c /root/starrocks/be/src/exec/dictionary_cache_writer.cpp",
+  "file": "/root/starrocks/be/src/exec/dictionary_cache_writer.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/iceberg/iceberg_delete_builder.cpp.o -c /root/starrocks/be/src/exec/iceberg/iceberg_delete_builder.cpp",
+  "file": "/root/starrocks/be/src/exec/iceberg/iceberg_delete_builder.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/iceberg/iceberg_delete_file_iterator.cpp.o -c /root/starrocks/be/src/exec/iceberg/iceberg_delete_file_iterator.cpp",
+  "file": "/root/starrocks/be/src/exec/iceberg/iceberg_delete_file_iterator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_tables_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_tables_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_tables_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_dummy_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_dummy_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_dummy_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_schemata_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_schemata_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_schemata_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_variables_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_variables_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_variables_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_columns_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_columns_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_columns_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_charsets_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_charsets_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_charsets_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_collations_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_collations_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_collations_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_statistics_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_statistics_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_statistics_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_triggers_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_triggers_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_triggers_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_events_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_events_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_events_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_views_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_views_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_views_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_materialized_views_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_materialized_views_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_materialized_views_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_tasks_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_tasks_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_tasks_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_task_runs_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_task_runs_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_task_runs_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_loads_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_loads_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_loads_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_load_tracking_logs_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_load_tracking_logs_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_load_tracking_logs_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_partitions_meta_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_partitions_meta_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_partitions_meta_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_user_privileges_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_user_privileges_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_user_privileges_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_schema_privileges_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_schema_privileges_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_schema_privileges_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_table_privileges_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_table_privileges_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_table_privileges_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_tables_config_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_tables_config_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_tables_config_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_metrics_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_metrics_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_metrics_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_tablets_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_tablets_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_tablets_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_txns_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_txns_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_txns_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_configs_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_configs_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_configs_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_threads_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_threads_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_threads_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_logs_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_logs_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_logs_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_fe_metrics_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_fe_metrics_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_fe_metrics_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_fe_tablet_schedules_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_fe_tablet_schedules_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_fe_tablet_schedules_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_compactions_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_compactions_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_compactions_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_bvars_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_bvars_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_bvars_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_cloud_native_compactions_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_cloud_native_compactions_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_cloud_native_compactions_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_pipe_files.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_pipe_files.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_pipe_files.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_pipes.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_pipes.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_pipes.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/starrocks_role_edges_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/starrocks_role_edges_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/starrocks_role_edges_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/starrocks_grants_to_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/starrocks_grants_to_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/starrocks_grants_to_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_helper.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_helper.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_helper.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_routine_load_jobs_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_routine_load_jobs_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_routine_load_jobs_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_stream_loads_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_stream_loads_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_stream_loads_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_be_datacache_metrics_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_be_datacache_metrics_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_be_datacache_metrics_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/sys_object_dependencies.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/sys_object_dependencies.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/sys_object_dependencies.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/sys_fe_locks.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/sys_fe_locks.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/sys_fe_locks.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/sys_fe_memory_usage.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/sys_fe_memory_usage.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/sys_fe_memory_usage.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/schema_scanner/schema_temp_tables_scanner.cpp.o -c /root/starrocks/be/src/exec/schema_scanner/schema_temp_tables_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/schema_scanner/schema_temp_tables_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/jdbc_scanner.cpp.o -c /root/starrocks/be/src/exec/jdbc_scanner.cpp",
+  "file": "/root/starrocks/be/src/exec/jdbc_scanner.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/sorting/compare_column.cpp.o -c /root/starrocks/be/src/exec/sorting/compare_column.cpp",
+  "file": "/root/starrocks/be/src/exec/sorting/compare_column.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/sorting/merge_column.cpp.o -c /root/starrocks/be/src/exec/sorting/merge_column.cpp",
+  "file": "/root/starrocks/be/src/exec/sorting/merge_column.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/sorting/merge_path.cpp.o -c /root/starrocks/be/src/exec/sorting/merge_path.cpp",
+  "file": "/root/starrocks/be/src/exec/sorting/merge_path.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/sorting/merge_cascade.cpp.o -c /root/starrocks/be/src/exec/sorting/merge_cascade.cpp",
+  "file": "/root/starrocks/be/src/exec/sorting/merge_cascade.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/sorting/sort_column.cpp.o -c /root/starrocks/be/src/exec/sorting/sort_column.cpp",
+  "file": "/root/starrocks/be/src/exec/sorting/sort_column.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/sorting/sort_permute.cpp.o -c /root/starrocks/be/src/exec/sorting/sort_permute.cpp",
+  "file": "/root/starrocks/be/src/exec/sorting/sort_permute.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/connector_scan_node.cpp.o -c /root/starrocks/be/src/exec/connector_scan_node.cpp",
+  "file": "/root/starrocks/be/src/exec/connector_scan_node.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/exchange_merge_sort_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/exchange_merge_sort_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/exchange_merge_sort_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/exchange_parallel_merge_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/exchange_parallel_merge_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/exchange_parallel_merge_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/exchange_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/exchange_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/exchange_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/exchange_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/exchange_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/exchange_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/local_exchange.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/local_exchange.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/local_exchange.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/local_exchange_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/local_exchange_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/local_exchange_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/local_exchange_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/local_exchange_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/local_exchange_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/multi_cast_local_exchange.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/multi_cast_local_exchange.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/multi_cast_local_exchange.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exchange/sink_buffer.cpp.o -c /root/starrocks/be/src/exec/pipeline/exchange/sink_buffer.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exchange/sink_buffer.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/fragment_executor.cpp.o -c /root/starrocks/be/src/exec/pipeline/fragment_executor.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/fragment_executor.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/limit_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/limit_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/limit_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/pipeline_builder.cpp.o -c /root/starrocks/be/src/exec/pipeline/pipeline_builder.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/pipeline_builder.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/project_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/project_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/project_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/dict_decode_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/dict_decode_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/dict_decode_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/result_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/result_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/result_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/olap_table_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/olap_table_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/olap_table_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/balanced_chunk_buffer.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/balanced_chunk_buffer.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/balanced_chunk_buffer.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/chunk_source.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/chunk_source.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/chunk_source.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/morsel.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/morsel.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/morsel.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/scan_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/scan_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/scan_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/olap_chunk_source.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/olap_chunk_source.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/olap_chunk_source.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/olap_scan_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/olap_scan_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/olap_scan_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/olap_scan_prepare_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/olap_scan_prepare_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/olap_scan_prepare_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/olap_scan_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/olap_scan_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/olap_scan_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/connector_scan_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/connector_scan_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/connector_scan_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/stream/scan/stream_scan_operator.cpp.o -c /root/starrocks/be/src/exec/stream/scan/stream_scan_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/stream/scan/stream_scan_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/meta_chunk_source.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/meta_chunk_source.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/meta_chunk_source.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/meta_scan_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/meta_scan_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/meta_scan_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/meta_scan_prepare_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/meta_scan_prepare_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/meta_scan_prepare_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/olap_meta_scan_prepare_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/olap_meta_scan_prepare_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/olap_meta_scan_prepare_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/lake_meta_scan_prepare_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/lake_meta_scan_prepare_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/lake_meta_scan_prepare_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/schema_chunk_source.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/schema_chunk_source.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/schema_chunk_source.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/schema_scan_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/schema_scan_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/schema_scan_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/schema_scan_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/schema_scan_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/schema_scan_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/connector_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/connector_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/connector_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/iceberg_table_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/iceberg_table_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/iceberg_table_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/sink_io_buffer.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/sink_io_buffer.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/sink_io_buffer.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/hive_table_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/hive_table_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/hive_table_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/table_function_table_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/table_function_table_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/table_function_table_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/blackhole_table_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/blackhole_table_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/blackhole_table_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/scan/chunk_buffer_limiter.cpp.o -c /root/starrocks/be/src/exec/pipeline/scan/chunk_buffer_limiter.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/scan/chunk_buffer_limiter.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/file_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/file_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/file_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/export_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/export_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/export_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/dictionary_cache_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/dictionary_cache_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/dictionary_cache_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/mysql_table_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/mysql_table_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/mysql_table_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sink/memory_scratch_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sink/memory_scratch_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sink/memory_scratch_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/select_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/select_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/select_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/nljoin/nljoin_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/nljoin/nljoin_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/nljoin/nljoin_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/nljoin/nljoin_build_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/nljoin/nljoin_build_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/nljoin/nljoin_build_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/nljoin/nljoin_probe_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/nljoin/nljoin_probe_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/nljoin/nljoin_probe_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/nljoin/spillable_nljoin_build_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/nljoin/spillable_nljoin_build_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/nljoin/spillable_nljoin_build_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/nljoin/spillable_nljoin_probe_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/nljoin/spillable_nljoin_probe_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/nljoin/spillable_nljoin_probe_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sort/partition_sort_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sort/partition_sort_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sort/partition_sort_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sort/local_partition_topn_sink.cpp.o -c /root/starrocks/be/src/exec/pipeline/sort/local_partition_topn_sink.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sort/local_partition_topn_sink.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sort/local_partition_topn_source.cpp.o -c /root/starrocks/be/src/exec/pipeline/sort/local_partition_topn_source.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sort/local_partition_topn_source.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sort/local_partition_topn_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/sort/local_partition_topn_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sort/local_partition_topn_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sort/local_merge_sort_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sort/local_merge_sort_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sort/local_merge_sort_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sort/spillable_partition_sort_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sort/spillable_partition_sort_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sort/spillable_partition_sort_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sort/local_parallel_merge_sort_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/sort/local_parallel_merge_sort_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sort/local_parallel_merge_sort_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/sort/sort_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/sort/sort_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/sort/sort_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/pipeline_driver_executor.cpp.o -c /root/starrocks/be/src/exec/pipeline/pipeline_driver_executor.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/pipeline_driver_executor.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/pipeline_driver_queue.cpp.o -c /root/starrocks/be/src/exec/pipeline/pipeline_driver_queue.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/pipeline_driver_queue.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/pipeline_driver_poller.cpp.o -c /root/starrocks/be/src/exec/pipeline/pipeline_driver_poller.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/pipeline_driver_poller.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/pipeline_driver.cpp.o -c /root/starrocks/be/src/exec/pipeline/pipeline_driver.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/pipeline_driver.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/audit_statistics_reporter.cpp.o -c /root/starrocks/be/src/exec/pipeline/audit_statistics_reporter.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/audit_statistics_reporter.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/exec_state_reporter.cpp.o -c /root/starrocks/be/src/exec/pipeline/exec_state_reporter.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/exec_state_reporter.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/driver_limiter.cpp.o -c /root/starrocks/be/src/exec/pipeline/driver_limiter.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/driver_limiter.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/fragment_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/fragment_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/fragment_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/query_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/query_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/query_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/stream_epoch_manager.cpp.o -c /root/starrocks/be/src/exec/pipeline/stream_epoch_manager.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/stream_epoch_manager.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/stream_pipeline_driver.cpp.o -c /root/starrocks/be/src/exec/pipeline/stream_pipeline_driver.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/stream_pipeline_driver.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/aggregate/aggregate_operators.cpp.o -c /root/starrocks/be/src/exec/pipeline/aggregate/aggregate_operators.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/aggregate/aggregate_operators.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/aggregate/repeat/repeat_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/aggregate/repeat/repeat_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/aggregate/repeat/repeat_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/analysis/analytic_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/analysis/analytic_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/analysis/analytic_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/analysis/analytic_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/analysis/analytic_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/analysis/analytic_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/bucket_process_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/bucket_process_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/bucket_process_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/table_function_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/table_function_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/table_function_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/assert_num_rows_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/assert_num_rows_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/assert_num_rows_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/union_passthrough_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/union_passthrough_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/union_passthrough_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/union_const_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/union_const_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/union_const_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/hashjoin/hash_join_build_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/hashjoin/hash_join_build_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/hashjoin/hash_join_build_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/hashjoin/hash_join_probe_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/hashjoin/hash_join_probe_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/hashjoin/hash_join_probe_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/hashjoin/hash_joiner_factory.cpp.o -c /root/starrocks/be/src/exec/pipeline/hashjoin/hash_joiner_factory.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/hashjoin/hash_joiner_factory.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/hashjoin/spillable_hash_join_build_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/hashjoin/spillable_hash_join_build_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/hashjoin/spillable_hash_join_build_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/hashjoin/spillable_hash_join_probe_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/hashjoin/spillable_hash_join_probe_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/hashjoin/spillable_hash_join_probe_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/except_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/except_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/except_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/except_build_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/except_build_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/except_build_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/except_probe_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/except_probe_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/except_probe_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/except_output_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/except_output_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/except_output_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/intersect_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/intersect_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/intersect_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/intersect_build_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/intersect_build_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/intersect_build_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/intersect_probe_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/intersect_probe_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/intersect_probe_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/set/intersect_output_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/set/intersect_output_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/set/intersect_output_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/hash_partition_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/hash_partition_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/hash_partition_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/hash_partition_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/hash_partition_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/hash_partition_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/hash_partition_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/hash_partition_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/hash_partition_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/adaptive/collect_stats_sink_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/adaptive/collect_stats_sink_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/adaptive/collect_stats_sink_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/adaptive/collect_stats_source_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/adaptive/collect_stats_source_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/adaptive/collect_stats_source_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/adaptive/collect_stats_context.cpp.o -c /root/starrocks/be/src/exec/pipeline/adaptive/collect_stats_context.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/adaptive/collect_stats_context.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/adaptive/utils.cpp.o -c /root/starrocks/be/src/exec/pipeline/adaptive/utils.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/adaptive/utils.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/adaptive/event.cpp.o -c /root/starrocks/be/src/exec/pipeline/adaptive/event.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/adaptive/event.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/chunk_accumulate_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/chunk_accumulate_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/chunk_accumulate_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/pipeline.cpp.o -c /root/starrocks/be/src/exec/pipeline/pipeline.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/pipeline.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/spill_process_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/spill_process_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/spill_process_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/spill_process_channel.cpp.o -c /root/starrocks/be/src/exec/pipeline/spill_process_channel.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/spill_process_channel.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/group_execution/execution_group.cpp.o -c /root/starrocks/be/src/exec/pipeline/group_execution/execution_group.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/group_execution/execution_group.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/group_execution/execution_group_builder.cpp.o -c /root/starrocks/be/src/exec/pipeline/group_execution/execution_group_builder.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/group_execution/execution_group_builder.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/pipeline/group_execution/group_operator.cpp.o -c /root/starrocks/be/src/exec/pipeline/group_execution/group_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/pipeline/group_execution/group_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/workgroup/work_group.cpp.o -c /root/starrocks/be/src/exec/workgroup/work_group.cpp",
+  "file": "/root/starrocks/be/src/exec/workgroup/work_group.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/workgroup/scan_executor.cpp.o -c /root/starrocks/be/src/exec/workgroup/scan_executor.cpp",
+  "file": "/root/starrocks/be/src/exec/workgroup/scan_executor.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/workgroup/scan_task_queue.cpp.o -c /root/starrocks/be/src/exec/workgroup/scan_task_queue.cpp",
+  "file": "/root/starrocks/be/src/exec/workgroup/scan_task_queue.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/query_cache/multilane_operator.cpp.o -c /root/starrocks/be/src/exec/query_cache/multilane_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/query_cache/multilane_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/query_cache/cache_operator.cpp.o -c /root/starrocks/be/src/exec/query_cache/cache_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/query_cache/cache_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/query_cache/cache_manager.cpp.o -c /root/starrocks/be/src/exec/query_cache/cache_manager.cpp",
+  "file": "/root/starrocks/be/src/exec/query_cache/cache_manager.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/query_cache/lane_arbiter.cpp.o -c /root/starrocks/be/src/exec/query_cache/lane_arbiter.cpp",
+  "file": "/root/starrocks/be/src/exec/query_cache/lane_arbiter.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/query_cache/conjugate_operator.cpp.o -c /root/starrocks/be/src/exec/query_cache/conjugate_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/query_cache/conjugate_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/query_cache/ticket_checker.cpp.o -c /root/starrocks/be/src/exec/query_cache/ticket_checker.cpp",
+  "file": "/root/starrocks/be/src/exec/query_cache/ticket_checker.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/spill_components.cpp.o -c /root/starrocks/be/src/exec/spill/spill_components.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/spill_components.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/spiller.cpp.o -c /root/starrocks/be/src/exec/spill/spiller.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/spiller.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/spiller_factory.cpp.o -c /root/starrocks/be/src/exec/spill/spiller_factory.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/spiller_factory.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/mem_table.cpp.o -c /root/starrocks/be/src/exec/spill/mem_table.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/mem_table.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/dir_manager.cpp.o -c /root/starrocks/be/src/exec/spill/dir_manager.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/dir_manager.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/serde.cpp.o -c /root/starrocks/be/src/exec/spill/serde.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/serde.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/input_stream.cpp.o -c /root/starrocks/be/src/exec/spill/input_stream.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/input_stream.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/data_stream.cpp.o -c /root/starrocks/be/src/exec/spill/data_stream.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/data_stream.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/log_block_manager.cpp.o -c /root/starrocks/be/src/exec/spill/log_block_manager.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/log_block_manager.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/file_block_manager.cpp.o -c /root/starrocks/be/src/exec/spill/file_block_manager.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/file_block_manager.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/hybird_block_manager.cpp.o -c /root/starrocks/be/src/exec/spill/hybird_block_manager.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/hybird_block_manager.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/operator_mem_resource_manager.cpp.o -c /root/starrocks/be/src/exec/spill/operator_mem_resource_manager.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/operator_mem_resource_manager.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/spill/query_spill_manager.cpp.o -c /root/starrocks/be/src/exec/spill/query_spill_manager.cpp",
+  "file": "/root/starrocks/be/src/exec/spill/query_spill_manager.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/stream/state/mem_state_table.cpp.o -c /root/starrocks/be/src/exec/stream/state/mem_state_table.cpp",
+  "file": "/root/starrocks/be/src/exec/stream/state/mem_state_table.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/stream/aggregate/agg_state_data.cpp.o -c /root/starrocks/be/src/exec/stream/aggregate/agg_state_data.cpp",
+  "file": "/root/starrocks/be/src/exec/stream/aggregate/agg_state_data.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/stream/aggregate/agg_group_state.cpp.o -c /root/starrocks/be/src/exec/stream/aggregate/agg_group_state.cpp",
+  "file": "/root/starrocks/be/src/exec/stream/aggregate/agg_group_state.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/stream/aggregate/stream_aggregator.cpp.o -c /root/starrocks/be/src/exec/stream/aggregate/stream_aggregator.cpp",
+  "file": "/root/starrocks/be/src/exec/stream/aggregate/stream_aggregator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/stream/aggregate/stream_aggregate_operator.cpp.o -c /root/starrocks/be/src/exec/stream/aggregate/stream_aggregate_operator.cpp",
+  "file": "/root/starrocks/be/src/exec/stream/aggregate/stream_aggregate_operator.cpp"
+},
+{
+  "directory": "/root/starrocks/build/src/exec",
+  "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/stream/stream_aggregate_node.cpp.o -c /root/starrocks/be/src/exec/stream/stream_aggregate_node.cpp",
+  "file": "/root/starrocks/be/src/exec/stream/stream_aggregate_node.cpp"
+}
+]
