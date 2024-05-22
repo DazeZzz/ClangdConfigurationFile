@@ -1,4 +1,4 @@
-[
+132[
 {
   "directory": "/root/starrocks/build/src/exec",
   "command": "/usr/bin/clang++-14  -I/root/starrocks/be/src -g -o CMakeFiles/Exec.dir/data_sink.cpp.o -c /root/starrocks/be/src/exec/data_sink.cpp",
